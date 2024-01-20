@@ -65,6 +65,10 @@ img.birthday {
   font-family:cursive;
   font-size: 40px;
 }
+.text h3{
+  font-family:cursive;
+  color:rgb(173, 216, 230);
+}
 .space {
   height: 100px;
 }
